@@ -38,10 +38,18 @@ embed {
     margin: 0 auto;
 }
 
-a:visited{
-    color: blue;
-}
-a link{
-    color: black;
-}
 
+li.weapons a:link{
+    color: black;
+
+
+}
+li.weapons a:visited{
+    color: fuchsia;
+}
+a:link{
+    color: salmon;
+}
+a:visited{
+    color: aquamarine;
+}
