@@ -7,12 +7,16 @@ h2 {
     color: #000000;
     text-align: center;
 }
+h3 {
+    color: #49031c;
+    text-align: center;
+}
 
 body {
     text-align: center;
     font-family: Calibri, serif ;
-    color: black;
-    background-color: navajowhite;
+    color: #000000;
+    background-color: #e39e4a;
     word-wrap: break-word;
     font-size: 24px;
 }
