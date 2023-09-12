@@ -35,8 +35,14 @@ ul{
     list-style-position: inside;
 }
 
-embed{
+embed {
     display: block;
     margin: 0 auto;
+}
 
+a:visited{
+    color: green;
+}
+a link{
+    color: black;
 }
