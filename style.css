@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     color: cornflowerblue;
+    font-size: 35px;
 }
 h2 {
     color: darkorchid;
@@ -13,6 +14,7 @@ body {
     color: black;
     background-color: navajowhite;
     word-wrap: break-word;
+    font-size: 24px;
 }
 
 p{
@@ -51,5 +53,8 @@ a:link{
     color: salmon;
 }
 a:visited{
-    color: aquamarine;
+    color: darkblue;
+}
+footer{
+    font-size: 10px;
 }
