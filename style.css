@@ -1,22 +1,22 @@
 h1 {
     text-align: center;
-    color: cornflowerblue;
+    color: blueviolet;
     font-size: 35px;
 }
 h2 {
-    color: #000000;
+    color: blueviolet;
     text-align: center;
 }
 h3 {
-    color: #49031c;
+    color: darkmagenta;
     text-align: center;
 }
 
 body {
     text-align: center;
     font-family: Calibri, serif ;
-    color: #000000;
-    background-color: navajowhite;
+    color: purple;
+    background-color: lavender;
     word-wrap: break-word;
     font-size: 24px;
 }
@@ -46,15 +46,15 @@ embed {
 
 
 li.weapons a:link{
-    color: black;
+    color: dodgerblue;
 
 
 }
 li.weapons a:visited{
-    color: fuchsia;
+    color: purple;
 }
 a:link{
-    color: salmon;
+    color: palevioletred;
 }
 a:visited{
     color: darkblue;
